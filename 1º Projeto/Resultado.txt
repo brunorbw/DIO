@@ -1,0 +1,1 @@
+O primeiro projeto foi concluido com sucesso, foi criado um novo repossitório no github, clonado localmente, ainda em ambito local foi adcioandos alguns arquivos, foi feito o commit e em seguida o push no github
